@@ -6,4 +6,3 @@ elif a<b :
     print (b,"The number is greater than",a)
 else :
     print ("Both are equal")
-
