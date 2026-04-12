@@ -1,4 +1,4 @@
-# python basic practice
+# Learn python basic
 *Syntax
 
 *File handling
