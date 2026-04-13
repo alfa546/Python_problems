@@ -1,5 +1,5 @@
 # Learn python basic
-*Syntax
+*Syntax of python
 
 *File handling
 
